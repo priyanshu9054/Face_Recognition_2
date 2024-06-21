@@ -1,2 +1,3 @@
 # Face_Recognition_2
-Attempting to create face recognizer using face recognition module in python
+main branch: Using haarscascade for face detection on ids
+master branch: Attempting to create face recognizer using face recognition module in python
